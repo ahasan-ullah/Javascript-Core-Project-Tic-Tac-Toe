@@ -1,2 +1,2 @@
 Javascript core project
-#thanks to Apna College
+#tutorial from Apna College
